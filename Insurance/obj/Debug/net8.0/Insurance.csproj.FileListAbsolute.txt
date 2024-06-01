@@ -1,0 +1,14 @@
+D:\Projetos Software\LPL\mutation-testing-project\Insurance\bin\Debug\net8.0\Insurance.deps.json
+D:\Projetos Software\LPL\mutation-testing-project\Insurance\bin\Debug\net8.0\Insurance.runtimeconfig.json
+D:\Projetos Software\LPL\mutation-testing-project\Insurance\obj\Debug\net8.0\Insurance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos Software\LPL\mutation-testing-project\Insurance\obj\Debug\net8.0\Insurance.AssemblyInfoInputs.cache
+D:\Projetos Software\LPL\mutation-testing-project\Insurance\obj\Debug\net8.0\Insurance.AssemblyInfo.cs
+D:\Projetos Software\LPL\mutation-testing-project\Insurance\obj\Debug\net8.0\Insurance.genruntimeconfig.cache
+D:\Projetos Software\LPL\mutation-testing-project\Insurance\bin\Debug\net8.0\Insurance.exe
+D:\Projetos Software\LPL\mutation-testing-project\Insurance\bin\Debug\net8.0\Insurance.dll
+D:\Projetos Software\LPL\mutation-testing-project\Insurance\bin\Debug\net8.0\Insurance.pdb
+D:\Projetos Software\LPL\mutation-testing-project\Insurance\obj\Debug\net8.0\Insurance.csproj.CoreCompileInputs.cache
+D:\Projetos Software\LPL\mutation-testing-project\Insurance\obj\Debug\net8.0\Insurance.dll
+D:\Projetos Software\LPL\mutation-testing-project\Insurance\obj\Debug\net8.0\refint\Insurance.dll
+D:\Projetos Software\LPL\mutation-testing-project\Insurance\obj\Debug\net8.0\Insurance.pdb
+D:\Projetos Software\LPL\mutation-testing-project\Insurance\obj\Debug\net8.0\ref\Insurance.dll
