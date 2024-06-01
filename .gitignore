@@ -1,20 +1,155 @@
-# Ignore node_modules folder
+## Ignore Visual Studio temporary files, build results, and
+## common Node.js folders.
+## 
+## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+/StrykerOutput/
+
+# Enable "uncomment this line if you wish to ignore the 'build' subdirectory." when using ASP.NET Core.
+# build/
+
+# Uncomment if using .NET Core only
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Auto-generated UI files
+*.g.i.cs
+*.g.cs
+*.g.i.vb
+*.g.vb
+*.g.i.fs
+*.g.fs
+
+# Azure Web Apps config file
+.local.settings.json
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode/*
+.vscode-test/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Rider settings
+.idea/
+
+# Crash reports
+crashlog.*
+
+# NCrunch
+*.ncrunchsolution
+*.ncrunchproject
+*.ncrunch
+
+# Comments
+.vs/
+
+# Coverage Results
+*.coverage
+*.coveragexml
+
+# Service Fabric Local Cluster
+sfdevcluster/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode/*
+
+# Local history for Visual Studio
+.localhistory/
+
+# IIS Logs
+IISExpress/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Node.js
 node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
-# Ignore log files
-*.log
-
-# Ignore compiled files
-*.class
-
-# Ignore Mac OS files
-.DS_Store
-
-# Ignore environment variables file
+# Environment variables
 .env
 
-.vs
+# Mac OS files
+.DS_Store
 
-/bin
-/obj
-/StrykerOutput/
+# Rider
+.idea/
+*.sln.iml
